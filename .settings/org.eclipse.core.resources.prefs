@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//adaboost/adaboost.py=utf8
+encoding//apriori/apriori.py=utf8
+encoding//frequent_pattern_tree/fpGrowth.py=utf8
+encoding//pca/pca.py=utf8
+encoding//reg_trees/regtrees.py=utf8
+encoding//regression/regression.py=utf8
